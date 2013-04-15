@@ -1,7 +1,7 @@
 tango
 =====
 
-enterprise web application framework based on flask
+enterprise web application framework based on flask and foundation 4.0
 
 features
 ========
