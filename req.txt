@@ -1,0 +1,5 @@
+Flask-WTF
+SQLAlchemy
+Flask-SQLAlchemy
+Flask-Login
+simplejson
